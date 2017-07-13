@@ -6,3 +6,4 @@
 3. [Lab03](https://github.com/yclim95/drawing/tree/master/SoftwareDesignTechnique/Lab/Lab03)
 4. [Lab04](https://github.com/yclim95/drawing/tree/master/SoftwareDesignTechnique/Lab/Lab04)
 5. [Lab05/06](https://github.com/yclim95/drawing/tree/master/SoftwareDesignTechnique/Lab/Lab0506)
+6. [Assignment](https://github.com/yclim95/drawing/tree/master/SoftwareDesignTechnique/Assignment)
